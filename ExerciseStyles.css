@@ -1,0 +1,13 @@
+*{  box-sizing: border-box;  
+    color: white;
+    background-color:#000000;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular',  'sans-serif';
+    vertical-align: middle;
+    text-decoration: solid;
+}
+body{width: 80%;
+    margin: 10px auto;
+}
+.title{
+    color: #00Bec5;
+}
